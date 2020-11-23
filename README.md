@@ -22,6 +22,7 @@ Enter Home Assistant Monitor. The concept is simple: replace the Chromecast with
 ## Installation
 - Chromium kiosk browser using https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
 - CEC control using https://github.com/trainman419/python-cec
+- Install pip `sudo apt install python3-pip`
 
 ## Configuration
 - /etc/xdg/openbox/autostart https://github.com/tnagels/home-assistant-monitor/blob/main/autostart
