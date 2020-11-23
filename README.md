@@ -24,8 +24,9 @@ Enter Home Assistant Monitor. The concept is simple: replace the Chromecast with
 - CEC control using https://github.com/trainman419/python-cec
 - Install pip `sudo apt install python3-pip`
 - Set up virtualenv https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/ (but use `sudo` in the install step)
+- add pyautogui https://pypi.org/project/PyAutoGUI/
+- add cec https://github.com/trainman419/python-cec/tree/b585a99a1ed5eae7c7957a8aada7a6b6e951d452
 
 ## Configuration
 - /etc/xdg/openbox/autostart https://github.com/tnagels/home-assistant-monitor/blob/main/autostart
 - /etc/X11/xorg.conf https://github.com/tnagels/home-assistant-monitor/blob/main/xorg.conf
-
