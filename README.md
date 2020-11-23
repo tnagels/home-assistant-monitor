@@ -20,5 +20,5 @@ Enter Home Assistant Monitor. The concept is simple: replace the Chromecast with
 - [ ] Add webserver for configuration of the RPI
 ## Configuration
 - /etc/xdg/openbox/autostart https://github.com/tnagels/home-assistant-monitor/blob/main/autostart
-- /etc/X11/xorg.conf 
+- /etc/X11/xorg.conf https://github.com/tnagels/home-assistant-monitor/blob/main/xorg.conf
 
