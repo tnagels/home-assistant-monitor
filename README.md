@@ -15,6 +15,6 @@ Enter Home Assistant Monitor. The concept is simple: replace the Chromecast with
 
 ## Current Status
 - [X] Right now I'm experimenting with some Bash scripts to implement basic functionality. Main purpose is to discover if the concept is usable and what the limitations are.
-- [] Move the functions to python
-- [] Set up "light" version of Raspbian without a full desktop
-- [] Add webserver for configuration of the RPI
+- [ ] Move the functions to python
+- [ ] Set up "light" version of Raspbian without a full desktop
+- [ ] Add webserver for configuration of the RPI
