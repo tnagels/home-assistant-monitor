@@ -18,6 +18,11 @@ Enter Home Assistant Monitor. The concept is simple: replace the Chromecast with
 - [ ] Move the functions to python
 - [ ] Set up "light" version of Raspbian without a full desktop
 - [ ] Add webserver for configuration of the RPI
+
+## Installation
+- Chromium kiosk browser using https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/
+- CEC control using https://github.com/trainman419/python-cec
+
 ## Configuration
 - /etc/xdg/openbox/autostart https://github.com/tnagels/home-assistant-monitor/blob/main/autostart
 - /etc/X11/xorg.conf https://github.com/tnagels/home-assistant-monitor/blob/main/xorg.conf
