@@ -18,3 +18,6 @@ Enter Home Assistant Monitor. The concept is simple: replace the Chromecast with
 - [ ] Move the functions to python
 - [ ] Set up "light" version of Raspbian without a full desktop
 - [ ] Add webserver for configuration of the RPI
+## Configuration
+- /etc/xdg/openbox/autostart
+
