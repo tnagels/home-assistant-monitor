@@ -14,6 +14,7 @@ Enter Home Assistant Monitor. The concept is simple: replace the Chromecast with
 * Home Assistant Integration to automatically set up controls of the monitor
 * Set up wireless through python wireless library
 * Filter mouse /keyboard input through evdev
+* Web configuration using bottle
 
 ## Current Status
 - [X] Right now I'm experimenting with some Bash scripts to implement basic functionality. Main purpose is to discover if the concept is usable and what the limitations are.
