@@ -12,6 +12,8 @@ Enter Home Assistant Monitor. The concept is simple: replace the Chromecast with
 * REST API (or other) for direct control of the display functions (which view to show etc)
 * Buttons on the remote can trigger Home Assistant automations
 * Home Assistant Integration to automatically set up controls of the monitor
+* Set up wireless through python wireless library
+* Filter mouse /keyboard input through evdev
 
 ## Current Status
 - [X] Right now I'm experimenting with some Bash scripts to implement basic functionality. Main purpose is to discover if the concept is usable and what the limitations are.
